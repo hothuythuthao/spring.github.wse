@@ -1,0 +1,5 @@
+package demo.springmvc.entities;
+
+public class User {
+
+}
